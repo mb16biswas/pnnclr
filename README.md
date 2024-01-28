@@ -10,6 +10,6 @@
 * A smooth-weight-updation approach in nearest neighbor based contrastive learning methods is highly useful in controlling the uncertainty in sampling
  
 
-Preprint: [](https://arxiv.org/abs/2308.06983).
+Find the preprint: [here](https://arxiv.org/abs/2308.06983).
 
-![Overall_Pipeline]()
+![Overall_Pipeline](https://github.com/mb16biswas/pnnclr/assets/64213233/b1ef4dd7-9fc3-4854-b100-260cd59c3b70)
